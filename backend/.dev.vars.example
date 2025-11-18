@@ -1,0 +1,5 @@
+# Backend Environment Variables for Local Development
+# Copy this to .dev.vars and fill in your actual values
+
+GEMINI_API_KEY="your-gemini-api-key-here"
+ENCRYPTION_KEY="your-32-character-encryption-key-here"
